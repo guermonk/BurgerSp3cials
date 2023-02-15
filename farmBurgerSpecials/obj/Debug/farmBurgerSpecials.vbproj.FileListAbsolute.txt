@@ -1,0 +1,12 @@
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\bin\Debug\farmBurgerSpecials.exe.config
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\bin\Debug\farmBurgerSpecials.exe
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\bin\Debug\farmBurgerSpecials.pdb
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\bin\Debug\farmBurgerSpecials.xml
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.vbprojAssemblyReference.cache
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.Form1.resources
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.Resources.resources
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.vbproj.GenerateResource.cache
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.vbproj.CoreCompileInputs.cache
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.exe
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.xml
+C:\Users\guermonprez_kenji\source\repos\farmBurgerSpecials\obj\Debug\farmBurgerSpecials.pdb
